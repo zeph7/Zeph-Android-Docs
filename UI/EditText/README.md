@@ -26,3 +26,20 @@ android:maxEms="10"
 ```xml
 android:background="@null"
 ```
+
+## EditText TextWatcher :
+
+When an object of this type is attached to an Editable, its methods will be called when the text is changed
+
+```kotlin
+editText.addTextChangedListener(object : TextWatcher {
+  override fun afterTextChanged(p0: Editable?) {
+  }
+
+  override fun beforeTextChanged(p0: CharSequence?, p1: Int, p2: Int, p3: Int) {
+  }
+
+  override fun onTextChanged(p0: CharSequence?, p1: Int, p2: Int, p3: Int) {
+  }
+})
+```
