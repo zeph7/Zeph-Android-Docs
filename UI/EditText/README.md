@@ -27,6 +27,16 @@ android:maxEms="10"
 android:background="@null"
 ```
 
+## Set Single Line on editText :
+
+```xml
+android:singleLine=true
+```
+or
+```xml
+android:maxLines=1
+```
+
 ## EditText TextWatcher :
 
 When an object of this type is attached to an Editable, its methods will be called when the text is changed
