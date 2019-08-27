@@ -32,9 +32,14 @@ android:background="@null"
 ```xml
 android:singleLine=true
 ```
-or
 ```xml
 android:maxLines=1
+```
+
+## Place cursor at the end of text in EditText :
+
+```xml
+editText.setSelection(editText.text.length())
 ```
 
 ## EditText TextWatcher :
