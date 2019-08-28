@@ -31,7 +31,7 @@ class FragmentX : Fragment() {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
-        // initializing CommunicatorSignupDetails interface reference variable
+        // initializing Communicator interface reference variable
         comm = activity as CommunicatorSignupDetails
 
         val data = edittextX.text.toString
