@@ -7,6 +7,7 @@ Repository to store android essential codes and API's for quick development purp
 * ### [Fragment ViewPager Activity](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/Activity/Fragment%20ViewPager%20Activity)
 * ### [Onboarding Activity](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/Activity/Onboarding%20Activity)
 * ### [Splash Activity](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/Activity/Splash%20Activity)
+* ### [TabLayout ViewPager Activity](https://github.com/zeph7/Zeph-Android-Docs/tree/master/Activity/TabLayout%20ViewPager%20Activity)
 
 ## [Android Architecture Components](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/Android%20Architecture%20Components) :
 
