@@ -1,5 +1,9 @@
 # Onboarding Activity
 
+![](https://cdn.dribbble.com/users/1145294/screenshots/3238301/3screens_2.png)
+
+Example ^
+
 ## Create a new activity :
 
 Create a new activity and add the default android ViewPager dependency which will be the sliding ViewPager, inside of which you can add any 
