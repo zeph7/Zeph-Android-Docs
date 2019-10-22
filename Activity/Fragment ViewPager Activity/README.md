@@ -1,5 +1,7 @@
 # ViewPager with sliding Fragments :
 
+![](https://blog.iamsuleiman.com/wp-content/uploads/2015/12/onboarding-android-viewpager-header-720x340.png)
+
 ## Create Framents :
 
 First, you need to create fragments that will be sliding on the `ViewPager`
