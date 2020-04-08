@@ -24,6 +24,7 @@ Repository to store android essential codes and API's for quick development purp
 ## [UI Docs](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/UI) :
 
 * ### [Buttons](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/UI/Buttons)
+* ### [Collapsing Toolbar](https://github.com/zeph7/Zeph-Android-Docs/tree/master/UI/Collapsing%20Toolbar#collapsing-toolbar)
 * ### [EditText](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/UI/EditText)
 * ### [Fonts](https://github.com/zeph7/Zeph-Android-Docs/tree/master/UI/Fonts#fonts)
 * ### [RecyclerView](https://github.com/ashish7zeph/Zeph-Android-Docs/tree/master/UI/RecyclerView)
