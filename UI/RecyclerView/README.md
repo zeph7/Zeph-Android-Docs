@@ -156,3 +156,16 @@ class MainActivity : AppCompatActivity() {
 
 ![](https://miro.medium.com/max/500/1*lVfiPligkFCM7SIVbwcb8Q.png)
 
+
+* ## Add space to the end of the RecyclerView
+
+It will add a space of 50dp to the end of the list
+
+```xml
+<RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="50dp"
+    android:clipToPadding="false" />
+```
+
