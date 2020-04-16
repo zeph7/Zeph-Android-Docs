@@ -32,3 +32,11 @@ style="?android:attr/borderlessButtonStyle"
 ```xml
 android:textAllCaps="false"
 ```
+
+## Set Button text alignment at center vertical
+
+```xml
+ <item name="android:includeFontPadding">false</item>
+   <item name="android:paddingTop">0dp</item>
+   <item name="android:paddingBottom">0dp</item>
+```
